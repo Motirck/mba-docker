@@ -3,7 +3,7 @@
 
 ## Containers vs Máquinas virtuais
 
-![Imagens vs Containers](https://www.sdxcentral.com/wp-content/uploads/2019/05/ContainersvsVMs_Image.jpg)
+![Imagens vs Containers](https://k21academy.com/wp-content/uploads/2020/11/Docker-and-Vm-blog-image_result-1.webp)
 
 ## Vantagens e desvantagens de usar máquinas virtuais
 
